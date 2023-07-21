@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Pion",
+  "name": "Pion",
+  "description": "Pion Client",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pion Client Community"],
+  "credits": "Pion Client Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
